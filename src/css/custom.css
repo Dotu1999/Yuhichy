@@ -1,0 +1,91 @@
+.nav-link {
+  font-size: 20px !important;
+  color: gray !important;
+}
+.nav-link:hover {
+  color: rgb(165, 125, 73) !important;
+}
+.fooder{
+  /* height: 300px; */
+  background-color: #323437;
+  color: aliceblue;
+  padding:20px ;
+  text-align: left;
+}
+.titleContact{
+  color: #858585;
+}
+.content_fooder{
+  color:#999;
+}
+.email{
+  cursor: pointer;
+}
+.linkFace{
+  color: #999 !important;
+  text-decoration: none;
+}
+.navbar-toggler:focus {
+  text-decoration: none;
+  outline: 0;
+  box-shadow: none;
+}
+.content{
+  padding: 10px;
+}
+.each-slide > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  height: 650px;
+  /* max-height: 1000px; */
+}
+
+.each-slide span {
+  padding: 20px;
+  font-size: 45px;
+  font-weight: 400;
+  color: aliceblue;
+  /* background: #efefef; */
+  font-family: Roboto,Helvetica,Arial,sans-serif;
+  text-align: center;
+  text-shadow: 1px 1px #b2aeae;
+}
+.bannerImge{
+  background-size: 100% 100% !important;
+  /* background-size: 300px 100px !important; */
+  background-repeat: no-repeat !important;
+}
+.main_conten{
+  width: 95%;
+  background-color: #fff;
+  /* height: 1000px; */
+  margin: auto;
+  border-radius: 10px;
+  border: 0.2px solid #d8d3d3;
+  box-shadow: 1px 1px #d9d5d5;
+  position: relative;
+  top: -90px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.content{
+  background-color: #e5e5e5;
+}
+*{
+  font-family: Roboto,Helvetica,Arial,sans-serif;
+}
+.aboutUs{
+  padding: 10px 20px;
+  font-size: 20px;
+  color: #7c7f82;
+  text-align: left;
+}
+.aboutUs ul{
+  margin-left: 80px;
+}
+.aboutUs .aboutUsContent{
+  padding-left: 110px;
+  padding-top: 30px;
+}
